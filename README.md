@@ -1,11 +1,11 @@
 # Semantic-Data-Processing
 Submission for semantic data processing module
 # Group Members
-Anna <br />
-Indra <br />
-Akshey <br />
-Suraj <br />
-Dominik <br />
+Anna Khadisova <br />
+Indrasena Reddy Kachana <br />
+Akshay Augustine Sheby <br />
+Surajkumar Dineshbhai Varma <br />
+Dominik Wunderlich <br />
 
 # Contributions
 ## Presentation 1
@@ -30,7 +30,7 @@ Dominik <br />
 | ------------- | ------------- |
 | Anna | 20  |
 | Indra  | 20  |
-| Akshey | 20  |
+| Akshay | 20  |
 | Suraj  | 20  |
 | Dominik  | 20  |
 
