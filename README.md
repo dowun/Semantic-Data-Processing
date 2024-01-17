@@ -1,29 +1,46 @@
 # Semantic-Data-Processing
 Submission for semantic data processing module
 # Group Members
--Anna
--Indra
--Akshey
--Suraj
--Dominik
+Anna <br />
+Indra <br />
+Akshey <br />
+Suraj <br />
+Dominik <br />
 
 # Contributions
 ## Presentation 1
--Dominik 33
--Anna 33
--Suraj 33
+| Name  | Contribution in % |
+| ------------- | ------------- |
+| Anna | 33  |
+| Suraj  | 33  |
+| Dominik  | 33  |
 
 ## Markovify
-- Dominik 100
+| Name  | Contribution in % |
+| ------------- | ------------- |
+| Dominik | 100  |
 
 ## Movie Prediction
-- Dominik 100
+| Name  | Contribution in % |
+| ------------- | ------------- |
+| Dominik | 100  |
 
 ## Presentation 2
--Anna 20
--Indra 20
--Akshey 20
--Suraj 20
--Dominik 20
+| Name  | Contribution in % |
+| ------------- | ------------- |
+| Anna | 20  |
+| Indra  | 20  |
+| Akshey | 20  |
+| Suraj  | 20  |
+| Dominik  | 20  |
 
 ## Project
+| Name  | Contribution in % |
+| ------------- | ------------- |
+| Anna | 0  |
+| Indra  | 0  |
+| Akshey | 0  |
+| Suraj  | 0  |
+| Dominik  | 0  |
+
+
