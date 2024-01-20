@@ -18,7 +18,9 @@ Dominik Wunderlich <br />
 ## Markovify
 | Name  | Contribution in % |
 | ------------- | ------------- |
-| Dominik | 100  |
+| Dominik | 33  |
+| Anna | 33  |
+| Akshay | 33  |
 
 ## Movie Prediction
 | Name  | Contribution in % |
@@ -37,10 +39,10 @@ Dominik Wunderlich <br />
 ## Project
 | Name  | Contribution in % |
 | ------------- | ------------- |
-| Anna | 0  |
-| Indra  | 0  |
-| Akshey | 0  |
-| Suraj  | 0  |
-| Dominik  | 0  |
+| Anna | 20  |
+| Indra  | 20  |
+| Akshey | 20  |
+| Suraj  | 20  |
+| Dominik  | 20  |
 
 
